@@ -7,3 +7,5 @@ VAE: MNIST dataset <br>
 VAE2: Facebook Cora dataset <br>
 
 **OPEN TO COLLABORATION FOR IMPROVEMENT/MODIFICATION/APPLICATION TO BUILD AN IN-DEPTH PROJECT**
+
+Implemented with Anuj Daga - IIT KGP
